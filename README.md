@@ -1,4 +1,4 @@
-Hola, I'm Sharad Tiwari!
+<h1> Hola, I'm Sharad Tiwari! </h1>
 
 - 🔭 I’m currently working in Amazon.
 - 🌱 I’m currently learning Devops
